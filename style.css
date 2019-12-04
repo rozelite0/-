@@ -35,15 +35,14 @@ p{
 #btn {
     margin-left: 19px;
     padding: 1px 50px;
-    background-color: #303374;
-    color: #FDFFFF;
-    border-color: #303374;
+    background-color: #F7F8E0;
+    border-color: #F7F8E0;
     border-style: none;
     outline: none;
 }
 
 #btn:hover {
-    background-color:#5B60E8;
+    background-color:rgb(132, 134, 180);
     outline: none;
 
 }
